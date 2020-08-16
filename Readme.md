@@ -4,8 +4,6 @@
 
 # 📑 Índice
 
-### [Mobile](#mobile)
-
 - [Sobre o Projeto](#-sobre-o-projeto)
 - [Tecnologias utilizadas](#-tecnologias-utilizadas)
 - [Design](#-design)
@@ -40,9 +38,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 Design feito por [Tiago Luchtenberg](https://www.instagram.com/tiagoluchtenberg/)
 
 <table>
-  <tr>
-    <td colspan="2">Mobile</td>
-  </tr>
   <tr>
     <td><img src="./readme/preview-mobile.png" width=180 /></td><td><img src="./readme/Home-mobile.png" width=180 /></td>
   </tr>
