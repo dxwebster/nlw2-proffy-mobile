@@ -23,13 +23,16 @@
 - [Licença](#-licença)
 
 ## 💡 Sobre o Projeto
-Criação do Proffy, uma plataforma para conexão professores e alunos. Acesse o Front-end e Back-end do projeto:  <br><br>
+Criação do Proffy, uma plataforma para conexão professores e alunos.<br>
 💻 **Acesse o Front-end [aqui](https://github.com/dxwebster/NLW2-Proffy/tree/master/web)** | 
 🖥 **Acesse o Back-end [aqui](https://github.com/dxwebster/NLW2-Proffy/tree/master/server)** | 
 
 ## 🚀 Tecnologias utilizadas
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
+
 - React Native
+- Android Studio
+- Expo
 - TypeScript
 - HTML5 e CSS3
 - NodeJS
