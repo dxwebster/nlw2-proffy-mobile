@@ -23,10 +23,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 📥 Executar esse projeto no seu computador
 
-- Clonar Repositório: `git clone https://github.com/dxwebster/NLW02-Proffy-Mobile.git`
-- Ir para a pasta: `cd NLW02-Proffy-Mobile`
+- Clonar Repositório: `git clone https://github.com/dxwebster/NLW2-Proffy-Mobile.git`
+- Ir para a pasta: `cd NLW2-Proffy-Mobile`
 - Instalar dependências: `yarn install`
-- Rodar Aplicação: `yarn start`
+- Rodar Aplicação: `yarn android`
 
 ## 🛠 Como criar esse projeto do zero
 ↳ Acesse a Wiki: https://github.com/dxwebster/NLW2-Proffy-Mobile/wiki
